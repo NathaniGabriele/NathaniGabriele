@@ -16,13 +16,13 @@
 - 🔭 I’m currently working on making any sense as a human being.
 - 🌱 I’m currently learning python and data viz.
 - 😄 Pronouns: she/her
--->
+
 
   
   ### Redes sociais
 
-<a href="https://www.linkedin.com/in/nathani-mota-de-souza-70a816187/><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="mailto:nathani.mota@gmail.com"><img src="https://img.shields.io/badge/-Email-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="https://instagram.com/llanalyn/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nathani-mota-de-souza-70a816187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nathani.mota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/nathanimota"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
