@@ -14,7 +14,7 @@
 <br>
 
 - 🔭 I’m currently working on making any sense as a human being.
-- 🌱 I’m currently learning python and data viz.
+- 🌱 I’m currently learning python, R, SQL, and data viz.
 - 😄 Pronouns: she/her
 
 
